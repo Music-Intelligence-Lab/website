@@ -38,5 +38,4 @@ git push origin main
 
 echo ""
 echo "Deployment complete!"
-echo "Your site will be available at: https://josephbakarji.github.io"
 echo "Note: It may take a few minutes for changes to appear."
