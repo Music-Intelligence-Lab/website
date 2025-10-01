@@ -1,0 +1,26 @@
+# Site settings
+title: Music Intelligence Lab
+email: jb50@aub.edu.lb
+description: >-
+  Exploring the intersection of music, technology, and intelligence through
+  science, mathematics, and machine learning rooted in cultural traditions.
+baseurl: ""
+url: "https://josephbakarji.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - scripts/
