@@ -4,8 +4,8 @@ email: jb50@aub.edu.lb
 description: >-
   Exploring the intersection of music, technology, and intelligence through
   science, mathematics, and machine learning rooted in cultural traditions.
-baseurl: ""
-url: "https://josephbakarji.github.io"
+baseurl: "/website"
+url: "https://music-intelligence-lab.github.io"
 
 # Build settings
 markdown: kramdown
