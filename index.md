@@ -19,7 +19,7 @@ Our lab bridges these intelligences to preserve human creativity while exploring
 ## Our Projects
 
 <div class="project-card">
-  <h3>Intelligent Musical Interfaces for Arabic Music</h3>
+  <h3>Intelligent Musical Interfaces</h3>
   <div class="project-container">
     <img src="{{ '/assets/images/gluvn.jpg' | relative_url }}" alt="Musical Glove Interface" class="project-image">
     <div class="project-description">
@@ -31,7 +31,7 @@ Our lab bridges these intelligences to preserve human creativity while exploring
 </div>
 
 <div class="project-card">
-  <h3>AI-Powered Music Generation & Composition</h3>
+  <h3>Algorithmic Composition and Generative AI </h3>
   <div class="project-container">
     <img src="{{ '/assets/images/aiforarabic.jpg' | relative_url }}" alt="AI for Arabic Music" class="project-image">
     <div class="project-description">
@@ -43,7 +43,7 @@ Our lab bridges these intelligences to preserve human creativity while exploring
 </div>
 
 <div class="project-card">
-  <h3>Digital Archive of Arabic Maqam Theory</h3>
+  <h3>Digital Arabic Maqam Archive</h3>
   <div class="project-container">
     <img src="{{ '/assets/images/maqamarchive.png' | relative_url }}" alt="Arabic Maqam Archive" class="project-image">
     <div class="project-description">
@@ -78,11 +78,38 @@ Our lab bridges these intelligences to preserve human creativity while exploring
   </div>
 
   <div class="team-member">
+    <img src="{{ '/assets/images/mohammad-el-asal.jpg' | relative_url }}" alt="Mohammad El Asal" class="team-photo">
+    <h3>Mohammad El Asal</h3>
+    <p class="team-role">Research Assistant</p>
+    <div class="team-website">
+      <a href="mailto:mohammad.elasal@lau.edu" target="_blank">mohammad.elasal@lau.edu</a>
+    </div>
+  </div>
+
+  <div class="team-member">
     <img src="{{ '/assets/images/roni-trad.jpg' | relative_url }}" alt="Roni Trad" class="team-photo">
     <h3>Roni Trad</h3>
     <p class="team-role">MS in Computational Science</p>
     <div class="team-website">
       <a href="mailto:rnt12@mail.aub.edu" target="_blank">rnt12@mail.aub.edu</a>
+    </div>
+  </div>
+
+  <div class="team-member">
+    <img src="{{ '/assets/images/najla-sadek.jpg' | relative_url }}" alt="Najla Sadek" class="team-photo">
+    <h3>Najla Sadek</h3>
+    <p class="team-role">Undergraduate Researcher</p>
+    <div class="team-website">
+      <a href="mailto:najla.sadek@aub.edu.lb" target="_blank">najla.sadek@aub.edu.lb</a>
+    </div>
+  </div>
+
+  <div class="team-member">
+    <img src="{{ '/assets/images/rebal-abou-fadel.jpg' | relative_url }}" alt="Rebal Abou Fadel" class="team-photo">
+    <h3>Rebal Abou Fadel</h3>
+    <p class="team-role">Undergraduate Researcher</p>
+    <div class="team-website">
+      <a href="mailto:rma174@mail.aub.edu" target="_blank">rma174@mail.aub.edu</a>
     </div>
   </div>
 
@@ -96,13 +123,15 @@ Our lab bridges these intelligences to preserve human creativity while exploring
   </div>
 
   <div class="team-member">
-    <img src="{{ '/assets/images/najla-sadek.jpg' | relative_url }}" alt="Najla Sadek" class="team-photo">
-    <h3>Najla Sadek</h3>
-    <p class="team-role">Undergraduate Researcher</p>
+    <img src="{{ '/assets/images/sara-najem.jpeg' | relative_url }}" alt="Sara Najem" class="team-photo">
+    <h3>Sara Najem</h3>
+    <p class="team-role">Collaborator, Physics</p>
     <div class="team-website">
-      <a href="mailto:najla.sadek@aub.edu.lb" target="_blank">najla.sadek@aub.edu.lb</a>
+      <a href="mailto:sn62@aub.edu.lb" target="_blank">sn62@aub.edu.lb</a>
     </div>
   </div>
+
+
 </div>
 
 ## Partnerships
