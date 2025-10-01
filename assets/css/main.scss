@@ -85,9 +85,9 @@
 }
 
 .project-image {
-  width: 250px;
+  width: 350px;
   height: 100%;
-  min-height: 200px;
+  min-height: 250px;
   object-fit: cover;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
@@ -102,7 +102,7 @@
 
   @media (max-width: 768px) {
     width: 100%;
-    max-width: 300px;
+    max-width: 350px;
     height: 200px;
     margin: 0 auto;
   }
@@ -114,6 +114,18 @@
   p {
     color: #444;
     line-height: 1.7;
+  }
+
+  a {
+    color: #2a7ae2;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+
+    &:hover {
+      color: #1e5bb8;
+      text-decoration: underline;
+    }
   }
 }
 

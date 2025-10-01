@@ -5,6 +5,7 @@
 
 echo "Starting Music Intelligence Lab website..."
 echo "The site will be available at: http://localhost:4000"
+echo "Production site: https://music-intelligence-lab.github.io"
 echo "Press Ctrl+C to stop the server"
 echo ""
 

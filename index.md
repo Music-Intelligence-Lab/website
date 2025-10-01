@@ -50,6 +50,9 @@ Our lab bridges these intelligences to preserve human creativity while exploring
       <p>The Arabic Maqam Archive is a comprehensive web-based platform for exploring Arabic maqām theory and practice. This open-source, open-access digital framework is the first to unify tanāghīm (tuning systems), ajnās (tetrachords), and maqāmāt (melodic modes) in a single interactive environment.</p>
 
       <p>The platform integrates historical tuning systems and melodic modes, utilizing network analysis to reveal connections and relationships within Arabic musical traditions. This tool serves both researchers and practitioners, offering new insights into the rich complexity of Arabic music theory.</p>
+
+      <p><a href="{{ '/experiments/ResultingNetworks.html' | relative_url }}" target="_blank">View Interactive Network Analysis →</a></p>
+      <p><a href="https://arabic-maqam.vercel.app" target="_blank">View the Arabic Maqam Archive →</a></p>
     </div>
   </div>
 </div>
@@ -78,7 +81,7 @@ Our lab bridges these intelligences to preserve human creativity while exploring
   </div>
 
   <div class="team-member">
-    <img src="{{ '/assets/images/mohammad-el-asal.jpg' | relative_url }}" alt="Mohammad El Asal" class="team-photo">
+    <img src="{{ '/assets/images/mohammad-el-asal.png' | relative_url }}" alt="Mohammad El Asal" class="team-photo">
     <h3>Mohammad El Asal</h3>
     <p class="team-role">Research Assistant</p>
     <div class="team-website">
@@ -105,7 +108,7 @@ Our lab bridges these intelligences to preserve human creativity while exploring
   </div>
 
   <div class="team-member">
-    <img src="{{ '/assets/images/rebal-abou-fadel.jpg' | relative_url }}" alt="Rebal Abou Fadel" class="team-photo">
+    <img src="{{ '/assets/images/rebal-abou-fadel.png' | relative_url }}" alt="Rebal Abou Fadel" class="team-photo">
     <h3>Rebal Abou Fadel</h3>
     <p class="team-role">Undergraduate Researcher</p>
     <div class="team-website">
@@ -134,15 +137,13 @@ Our lab bridges these intelligences to preserve human creativity while exploring
 
 </div>
 
-## Partnerships
+## Partnerships 
 
 - Center for Advanced Mathematical Sciences (CAMS)
-- Artificial Intelligence Hub
+- Artificial Intelligence, Data Science, and Computing Hub
 
 ## Opportunities
 
-We welcome MS and PhD student applicants at the American University of Beirut. Undergraduate students can get involved through the Vertically Integrated Project Program (VIPP).
-
-## Contact
+We welcome MS and PhD student applicants at the American University of Beirut. Undergraduate students can get involved through the [Vertically Integrated Project Program (VIPP)](https://www.josephbakarji.com/articles/vertically-integrated-program).
 
 For inquiries, please email: [jb50@aub.edu.lb](mailto:jb50@aub.edu.lb)
